@@ -9,7 +9,7 @@ async function init() {
         topics:[
         {
         topic:"Rider-updates",
-        numPartitions: 4,
+        numPartitions: 2,
 
         },]
     });
